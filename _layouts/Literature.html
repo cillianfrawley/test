@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<h1>
+  {{ page.title }}
+</h1>
+
+<h2>Reading List</h2>
+<ul class="reading-list">
+  {% assign reading_list = site.data.reading_list %}
+  {% for book in reading_list %}
+    <li>
+      <strong>{{ book.title }}</strong> by {{ book.author }}
+    </li>
+  {% endfor %}
+</ul>
+
+<ul class="posts-container">
+  {% assign category = "literature" %}
+  {% for post in site.posts %}
+    {% if post.categories contains category %}
+      {% unless post.next %}
+        <h3>{{ post.date | date: '%Y' }}</h3>
+      {% else %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+        {% if year != nyear %}
+          <h3>{{ post.date | date: '%Y' }}</h3>
+        {% endif %}
+      {% endunless %}
+      <li itemscope>
+        <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+        <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%B %-d" }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

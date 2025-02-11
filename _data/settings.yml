@@ -1,17 +1,13 @@
-# Change 'comments' to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: ''
-
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: '''
+google-ID: ''
 
 menu:
 - {name: 'About',   url: 'about.html'}
-- {name: 'Cooking', url: 'Cooking.html'}
 - {name: 'Cycling', url: 'Cycling.html'}
-- {name: 'Carbon', url: 'Carbon.html'}
-- {name: 'Chapters', url: 'Chapters.html'}
+- {name: 'Power and Energy', url: 'Power_and_Energy.html'}
+- {name: 'Dining', url: 'Dining.html'}
+- {name: 'Adventures', url: 'Adventures.html'}
+- {name: 'Literature', url: 'Literature.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

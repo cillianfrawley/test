@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "About the Author"
+title: "Dining Test"
 author: "Cillian Frawley"
-categories: journal
+categories: dining
 tags: [documentation,sample]
-image: 
 ---
 
 This project doesn't have a defined direction yet, I want somewhere to store my important
