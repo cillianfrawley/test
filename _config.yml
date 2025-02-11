@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'P.E.D.A.L'
-description:	       "**P**ower, **E**nergy, **D**ining, **A**dventures, **L**iterature"
+description:	       "<b>P<b>ower, <b>E<b>nergy, <b>D<b>ining, <b>A<b>dventures, <b>L<b>iterature"
 author:              'Cillian Frawley'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
