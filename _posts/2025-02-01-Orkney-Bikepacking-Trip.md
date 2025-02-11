@@ -6,7 +6,7 @@ categories: adventures
 tags: [documentation,sample]
 ---
 
-Friday, 31st January:
+**Friday, 31st January**:
 Eve and I decided to go on a long weekend to the Orkney Islands bikepacking this weekend.
  We drove from Aberdeen to Thurso, with a stop in Elgin for some McDonalds and a change
 of driver. Eve took over from Elgin and I was on chicken nugget feeding duty. We made
@@ -39,7 +39,7 @@ was curious about what part of Ireland we were from as she had recently been to 
 with her daughter and was raving about it. After locking up the bikes, we collapsed into 
 bed early knowing we had a big weekend of adventure ahead of us.
 
-Saturday, 01st February:
+**Saturday, 01st February:**
 We were up early to get a feed in before we headed off on our days trip. Options were 
 limited but we found a bakery/shop that had a small deli so we got a handful of sausages 
 and pudding and a pack of soft brown rolls and a ginger cake and headed back to Brown's for a 
@@ -56,10 +56,12 @@ up to the dock. Once they handed over the bag of Royal Mail to the postman, we w
 to disembark, bikes in hand. We carefully stepped off the ferry carrying the bikes, trying 
 to time our leap so we didn't plunge into the icy waters.
 
-Our plan for the day was to start in Moaness, head south west to the beach in Rathwick before heading east towards the other side of the island. We had planned to make a trip to the "Old Man Of Hoy"
-but we realised we wouldn't have time for a 3 hour hike on top of the miles we had ahead 
-of us. We arrived in Rathwick and had a brief walk on the beach before heading back against 
-the wind to the east of the island. The easterly wind was quite strong and resulted in a predominant headwind for most of the days cycling. The rain held off though and we soon made it to Lyness 
-where we hoped we could get some food in a café but it was closed for the winter months. 
-We had another breakfast roll and took chunks out of the ginger cake before heading further 
-east towards Longhope. 
+Our plan for the day was to start in Moaness, head south west to the beach in Rathwick 
+before heading east towards the other side of the island. We had planned to make a trip 
+to the "Old Man Of Hoy" but we realised we wouldn't have time for a 3 hour hike on top of
+the miles we had ahead of us. We arrived in Rathwick and had a brief walk on the beach
+before heading back against the wind to the east of the island. The easterly wind was 
+quite strong and resulted in a predominant headwind for most of the days cycling. The 
+rain held off though and we soon made it to Lyness where we hoped we could get some 
+food in a café but it was closed for the winter months. We had another breakfast roll 
+and took chunks out of the ginger cake before heading further east towards Longhope. 
