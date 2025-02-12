@@ -42,7 +42,7 @@ bed early knowing we had a big weekend of adventure ahead of us.
 
 **Saturday, 01st February:**  
 We were up early to get a feed in before we headed off on our days trip. Options were 
-limited but we found a bakery/shop that had a small deli so we got a handful of sausages 
+limited but we found *Angies Bakery* that had a small deli so we got a handful of sausages 
 and pudding and a pack of soft brown rolls and a ginger cake and headed back to *Brown's* for a 
 cup of tea and breakfast rolls.
 
@@ -102,4 +102,41 @@ television which was a nice bonus! After half an hour we arrived in Houton, with
  beans and mushy peas, fanta orange and a sprite. We plated up inside the hostel kitchen 
  and had the dining room to ourselves, which we were lucky with because it seemed like a 
  very popular place in the warmer months judging by the size of the place. After polishing 
- off the feed, we yet again collapsed into bed, satisfied with our days adventure.  
+ off the feed, we yet again collapsed into bed, satisfied with our days adventure.
+
+ **Sunday 02nd February**  
+We woke up around 09:00 and headed to the kitchen for breakfast. We noticed complementary 
+cereals the night before so we put on a huge pot of porridge and had that with some honey 
+and a cup of coffee from a nescafe coffee machine (not bad for a hostel). After packing up 
+the kit, we collected the bikes from the hostel owners shed and headed straight to Lidl. 
+We wanted something for a snack on the bike and also some rolls for lunch. 2 pain au chocolat, 
+a packet of belgian sugar waffles, 4 crispy rolls and a packet of chicken later and we were 
+on the road again. Heading east out of Kirkwall, we passed Kirkwall airport, the biggest 
+airport in Orkney. When planning an itinerary for the weekend, after watching the new movie 
+that starred Saoirse Ronan, *Outrun*, shot in Papa Westray, we had a small urge to make it 
+to the small island to the north west of the mainland, but after further research we found 
+it would be impossible to squeeze in a visit to the island in the long weekend. Aside from 
+the birdwatch hut and the bright blue waters surrounding Papa Westray, we were also entised 
+as the worlds shortest commercial flight goes from Westray to Papa Westray, a mere 2.7 km 
+apart ([Westray to Papa Westray](https://en.wikipedia.org/wiki/Westray_to_Papa_Westray_flight#:~:text=The%20Loganair%20Westray%20to%20Papa,fastest%20flight%20is%2053%20seconds.))
+
+After passing the airport we headed for a loop around Tankerness and Deerness on the north east 
+of the mainland, before heading south towards St. Marys for lunch at the *Barrier View Café*. 
+I had lentil soup and a tuna panini while Eve opted for a tuna panini followed by a sweet 
+treat (shock) of a scone. Unfortunately the service was quite poor and Eve got a latte 
+instead of a flat white, while the scone came without jam or cream or butter but we didn't 
+mind too much as we were glad of the shelter from the cold for a while. It was now 14:30 and 
+we headed out on the last stretch of the day, south across the barriers connecting the 
+mainland to the southern islands Burray and South Ronaldsay. We managed to take in the views
+of the famous [Scapa Flow Shipwrecks](https://www.scapaflowwrecks.com/) while crossing the barriers in 
+what was shaping up to be a lovely clear sunny day. We made it down to St. Margaret's Hope, 
+but Eve was feeling it again late into the ride so we made slow progress back north to the 
+mainland, passing the [Italian Chapel](https://www.orkney.com/listings/the-italian-chapel) on the way back over the barriers, before arriving in 
+Holm (Ha-hm) to our Airbnb.
+
+The Airbnb was a brand new granny flat beside a family home, with a modern kitchen, cosy bed 
+and a warm shower! After showering we relaxed for a bit before contemplating dinner options. 
+We were informed that there were taxis available that would bring us the 10 minute drive into 
+Kirkwall but after ringing 3 of Orkneys taxi companies numerous times, and with Eve not 
+wanting me to cycle in to collect a takeaway, we were left with the leftover chicken rolls 
+and pain au chocolat from earlier...luxury.
