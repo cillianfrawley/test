@@ -117,8 +117,10 @@ that starred Saoirse Ronan, *Outrun*, shot in Papa Westray, we had a small urge 
 to the small island to the north west of the mainland, but after further research we found 
 it would be impossible to squeeze in a visit to the island in the long weekend. Aside from 
 the birdwatch hut and the bright blue waters surrounding Papa Westray, we were also entised 
-as the worlds shortest commercial flight goes from Westray to Papa Westray, a mere 2.7 km 
-apart ([Westray to Papa Westray](https://en.wikipedia.org/wiki/Westray_to_Papa_Westray_flight#:~:text=The%20Loganair%20Westray%20to%20Papa,fastest%20flight%20is%2053%20seconds.))
+as the worlds shortest commercial flight goes from [Westray to Papa Westray](https://en.wikipedia.org/wiki/Westray_to_Papa_Westray_flight#:~:text=The%20Loganair%20Westray%20to%20Papa,fastest%20flight%20is%2053%20seconds.), a mere 2.7 km 
+apart.
+
+![Alt text](assets/img/adventures.jpg "Adventure Image")
 
 After passing the airport we headed for a loop around Tankerness and Deerness on the north east 
 of the mainland, before heading south towards St. Marys for lunch at the *Barrier View Café*. 
